@@ -1,13 +1,13 @@
-*** Installation
+# Installation
 
 composer install maalls/mecab-cli-to-php
 
-*** Example
+# Example
 
-'''
+```php
 todo
-'''
+```php
 
-*** Tests
+# Tests
 
 ./vendor/bin/phpunit tests
