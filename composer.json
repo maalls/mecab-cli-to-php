@@ -4,7 +4,7 @@
   "version": "0.1",
   "type": "library",
   "keywords": ["mecab", "PHP"],
-  "license": "GNU Public License",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Malo Yamakado",

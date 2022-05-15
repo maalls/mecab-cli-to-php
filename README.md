@@ -1,6 +1,6 @@
 # Installation
 
-This requires mecab to be first installed.
+mecab for cli must be first installed.
 
 Then, using composer:
 ```
