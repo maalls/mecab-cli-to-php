@@ -1,7 +1,6 @@
 {
   "name": "maalls/mecab-cli-to-php",
   "description": "Wrapper for mecab cli command.",
-  "version": "0.1",
   "type": "library",
   "keywords": ["mecab", "PHP"],
   "license": "Apache-2.0",
